@@ -1,0 +1,17 @@
+p{
+    color:cornflowerblue;
+}
+h1{
+    font-size:110px ;
+}
+#funny-stuff{
+    background-color: aquamarine;
+    border: 10px dotted goldenrod;
+}
+.ragebait{
+    font-weight: 910;
+    text-decoration: underline;
+    background-color: darkseagreen;
+}
+body{background-color: darkslategray;
+}

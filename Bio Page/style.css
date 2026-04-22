@@ -1,0 +1,28 @@
+body{
+    background-color: crimson;
+}
+
+h1{
+    background-color: gold;
+    text-align: center;
+    border: 5px solid crimson;
+    padding-bottom: 5px;
+}
+p{
+    background-color: gold;
+    text-align: center;
+    border: 5px solid crimson;
+}
+h2{
+    background-color: gold;
+    text-align: center;
+    border: 5px solid crimson;
+    padding-top: 5px;
+}
+
+ul{
+    background-color: gold;
+    text-align: center;
+    border: 5px solid crimson;
+}
+
